@@ -15,6 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
+  search: /search/
   about: /about/
   articles: /archives/
 
@@ -168,8 +169,8 @@ mathjax:
 
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
-  enabled: false
-  shortname: cactus-1
+  enabled: true
+  shortname: norns
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:
